@@ -8,7 +8,6 @@ Group members
 	P. W. D. I. M. RODRIGO : KADSE201F-063
 
 --->First insert "final (2).sql" to Database
---->Then extract "freshshop NeW.zip"
 --->enjoy
 
 
