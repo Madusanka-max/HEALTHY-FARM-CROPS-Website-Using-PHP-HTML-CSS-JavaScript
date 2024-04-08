@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+body{
+	align-content: center;
+	color: green;
+	margin-top: 100px;
+	/*background-image: url("images/back.jpg");*/
+	background-color: lightgreen;
+}
+
+body table{
+	background-color: white;
+	border: 0;
+	margin-top: 100px;
+}
+
+.search table{
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	top: 30%;
+	transform: translate(-50%,-50%);
+	width: 60%;
+	height: 300px;
+	background: #fafafa;
+	text-align: center;
+	border-collapse: collapse;
+	border-spacing: 0;
+
+
+}
+

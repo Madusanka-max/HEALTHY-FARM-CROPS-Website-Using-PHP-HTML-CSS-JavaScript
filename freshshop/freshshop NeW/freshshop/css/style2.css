@@ -1,0 +1,85 @@
+
+
+       body{
+	       background:#0000008a ;
+	       background-image: url(../images/log4.jpg);
+	       background-repeat :no-repeat;
+	       background-size: cover;
+	       background-position: center center;
+	       background-attachment: fixed;
+	       background-blend-mode: darken;
+	       img{width: 100%;}
+	       display: grid;
+	       place-items: center;
+	    }
+      .login_form{
+	       background: #fff;
+	       padding: 30px;
+	       box-shadow: 0px 1px 36px 5px rgba(0,0,0,0.28);
+	       border-radius: 5px;
+	       margin-top: 25%;
+	       width: 500px; 
+	       place-items: center;
+	        margin-left: auto;
+  		    margin-right: auto;
+         }
+         .form_btn{
+         	 background: #30d60c;
+         	 box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+         	 border: none;
+         	 color: #fff;
+         	 width: 100%;
+         }
+       .label_txt{  font-size: 18px; }
+
+       .form-control{border-radius: 25px }
+
+       .signup_form{
+       	 background: #fff;
+       	 padding-left: 25px;
+       	 padding-right: 25px;
+       	 padding-bottom: 5px;
+       	 box-shadow: 0px 1px 36px 5px rgba(0,0,0,0.28);
+       	 border-radius:  5px;
+       	 margin: 30%;
+       	 width: 500px;       	   
+	       background-blend-mode: shadow;
+	       margin-left: auto;
+  		    margin-right: auto;
+
+           }
+       .logo{ 
+     		 height: 80px; 
+             width: auto; 
+       	 display: block;
+  		 margin-left: auto;
+  		 margin-right: auto;
+           }
+       
+       .errmsg{
+       	 margin: 2px auto;
+       	 border-radius: 5px;
+       	 border: 1px solid red;
+       	 background:  pink;
+       	 text-align: center;
+       	 color: brown;
+       	 padding: 1px;
+       	 place-items: center;
+       	 margin: center;
+          }
+       .successmsg{
+       	 margin: 5px auto;
+       	 border-radius: 5px;
+       	 border: 1px solid green;
+       	 background: #6cf76b;
+       	 text-align: center;
+       	 color: white;
+       	 padding: 10px;
+       	 box-shadow: 0px 1px 36px 5px rgba(0,0,0,0.28);
+       	 display: block shadow;
+       	 background-blend-mode: shadow;
+       	 align-content: center;
+          }
+      
+        
+
