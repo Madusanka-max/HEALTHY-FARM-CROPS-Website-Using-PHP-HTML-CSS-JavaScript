@@ -1,5 +1,6 @@
-<? php
+<?php
 session_start();
+?>
 <!DOCTYPE html>
 <?php include("admin/config.php"); ?>
 <html lang="en">
@@ -209,4 +210,3 @@ session_start();
 </body>
 
 </html>
-?>

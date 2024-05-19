@@ -64,7 +64,7 @@
            		      if(strlen($password) > 20){//max
            		      	$error[] = 'Password: Max length 20 Characters Not allowed';
            		      }
-           		      $sql ="select * from buyer where (username = '$username' or email = '$email' );";
+           		      $sql ="select * from seller where (username = '$username' or email = '$email' );";
            		      $res = mysqli_query($dbc,$sql);
            		      if(mysqli_num_rows($res) > 0) {
            		      	 $row = mysqli_fetch_assoc($res);

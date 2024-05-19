@@ -10,8 +10,7 @@ if(isset($_POST['sublogin']))
 	$subject = $_POST['subject'];
 	$message = $_POST['message'];
 
-	$sql = "INSERT INTO contact_us(sender_name,email,telephone,subject,message) VALUES('$name','$email',
-	'$contactno','$subject','$message')";
+	$sql = "INSERT INTO contact_us(sender_name,email,telephone,subject,message) VALUES('$name','$email','$contactno','$subject','$message')";
 	$result = mysqli_query($dbc,$sql);
 
 	if($result)
