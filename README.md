@@ -16,12 +16,20 @@ Group members
 2021 G. K. R. KULAWARDHANA/J. M. S. YOMAL/H. M. S. P. GUNARATHNA/P. W. D. I. M. RODRIGO.All right reserved.
 </p>
 <br>
-<img src="freshshop/SS/1.jpeg">
-<img src="freshshop/SS/2.jpeg">
-<img src="freshshop/SS/3.jpeg">
-<img src="freshshop/SS/4.jpeg">
-<img src="freshshop/SS/5.jpeg">
-<img src="freshshop/SS/6.jpeg">
-<img src="freshshop/SS/7.jpeg">
-<img src="freshshop/SS/8.jpeg">
-<img src="freshshop/SS/9.jpeg">
+<img src="freshshop/SS/g1.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/g2.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/g3.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/l4.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/l5.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/b6.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/b7.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/b8.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/b9.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/s10.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/s11.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/s12.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/a13.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/a14.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/a15.jpeg" width="300" height="500" align="left">
+<img src="freshshop/SS/a16.jpeg" width="300" height="500" align="right">
+<img src="freshshop/SS/a17.jpeg" width="300" height="500" align="left">
